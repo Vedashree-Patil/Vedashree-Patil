@@ -1,9 +1,7 @@
-Vedashree Patil
+## Vedashree Patil
 AI Engineer in Training • Building Intelligent Systems • Turning Ideas into Products
 About Me
 
-
-```
 
 ## Who Am I?
 
@@ -14,7 +12,7 @@ My journey started with writing simple programs in C and C++, and today I'm buil
 I enjoy participating in hackathons, learning emerging technologies, and transforming ideas into products that solve meaningful problems.
 
 ---
-Current Focus
+## Current Focus
 
 🧠 Artificial Intelligence & Machine Learning
 
@@ -27,9 +25,8 @@ Current Focus
 📊 Data Analytics & Visualization
 
 🚀 Building production-ready AI applications
-```
 
-
+---
 ## ⚡ Tech Arsenal
 
 ### Languages
