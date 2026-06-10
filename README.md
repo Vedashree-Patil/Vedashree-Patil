@@ -1,31 +1,8 @@
-# Hey, I'm Vedashree 👋
+Vedashree Patil
+AI Engineer in Training • Building Intelligent Systems • Turning Ideas into Products
+About Me
 
-```python
-class Vedashree:
-    def __init__(self):
-        self.role = "AI & ML Undergraduate"
-        self.education = "B.Tech CSE (AI & ML) @ SRM University AP"
-        self.year = 3
-        self.goal = "AI Engineer"
-        self.location = "India"
 
-    def interests(self):
-        return [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Generative AI",
-            "Cloud Computing",
-            "Full Stack Development"
-        ]
-
-    def currently_building(self):
-        return [
-            "AI-powered applications",
-            "Semantic Search Systems",
-            "Cloud-based Solutions"
-        ]
-
-me = Vedashree()
 ```
 
 ## Who Am I?
@@ -37,6 +14,21 @@ My journey started with writing simple programs in C and C++, and today I'm buil
 I enjoy participating in hackathons, learning emerging technologies, and transforming ideas into products that solve meaningful problems.
 
 ---
+Current Focus
+
+🧠 Artificial Intelligence & Machine Learning
+
+☁️ Cloud Computing with AWS
+
+🔍 Semantic Search & Information Retrieval
+
+🌐 Full-Stack Development
+
+📊 Data Analytics & Visualization
+
+🚀 Building production-ready AI applications
+```
+
 
 ## ⚡ Tech Arsenal
 
